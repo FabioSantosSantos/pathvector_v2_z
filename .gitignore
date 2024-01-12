@@ -1,0 +1,11 @@
+logs
+logs_copy
+.waf-1*
+.waf3-1*
+.waf-2*
+.waf3-2*
+.DS*
+.lock*
+build/
+*.pyc
+config/trust.cert
